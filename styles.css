@@ -1,0 +1,48 @@
+.bg-nav{
+    background-color: black;
+}
+
+.title{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.flx{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.footer-bg{
+    background-color: #808080;
+    
+}
+
+.head1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 5px;
+}
+
+
+.row-content{
+    display: flex;
+    justify-content: space-around;
+}
+
+.brands{
+    height: 200px;
+}
+
+.cd{
+    height: 300px;
+    width: 250px;
+    border: 1px solid black;
+}
+
+
+.br-name{
+    background-color: #E8E8E8;
+}
+
+.cont{
+    background-color: #808080;
+}
